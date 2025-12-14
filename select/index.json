@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "グングニル",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-14T08:12:55.197047Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グングニル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_グングニル_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グングニル (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_グングニル_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グングニル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_グングニル_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
